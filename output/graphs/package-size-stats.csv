@@ -1,0 +1,17 @@
+Package name,Package size,Package size in system (%)
+skeleton-init-common,16146,0.0
+unknown,170,0.0
+skeleton-init-sysv,334,0.0
+toolchain,230,0.0
+busybox,830996,2.1
+openssh,5971141,15.1
+initscripts,831,0.0
+ifupdown-scripts,2040,0.0
+urandom-scripts,1243,0.0
+libopenssl,6153670,15.6
+kmod,265984,0.7
+gcc-final,2278788,5.8
+libzlib,83744,0.2
+xz,322590,0.8
+glibc,2490072,6.3
+linux,21138710,53.4
